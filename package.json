@@ -1,0 +1,14 @@
+{
+  "name": "job-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx marp --output=dist --input-dir=src --allow-local-files"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.2.0"
+  }
+}
