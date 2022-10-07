@@ -153,3 +153,15 @@ David Gómez Redondo
 ![bg fit right](/assets/images//meaning/paloma-paz.webp)
 
 ---
+
+# Me hace sentir mal
+
+![bg fit right](/assets/sensacion/inclinado-mal.jpg)
+
+---
+
+# Me hace sentir bien
+
+![bg fit right](/assets/sensacion/inclinado.jpg)
+
+---
